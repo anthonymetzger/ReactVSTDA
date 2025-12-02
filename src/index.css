@@ -1,0 +1,18 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5;
+  color: #f5f5f5;
+  
+}
+
+body {
+  background-color: #f5f5f5;
+  text-align: center;
+  display: block;
+  flex-wrap: wrap;
+}
+

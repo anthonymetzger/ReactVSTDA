@@ -1,0 +1,41 @@
+/* Add your custom css here */
+.main {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    width: 2000px;
+    height: 1000px;
+    margin: 10px;
+    background-color: #f5f5f5;
+}
+
+.input-side {
+    justify-content: left;
+    
+}
+
+.list-side {
+    justify-content: right;
+    
+}
+
+input {
+    height: 40px;
+    width: 300px;
+}
+
+label {
+    display: flex;
+    height: 100px;
+    width: 300px;
+    font-size: 30px;
+}
+
+.sep {
+    margin: 20px;
+}
+
+.clr {
+    margin-bottom: -10px;
+    background-color: #f5f5f5;;
+}

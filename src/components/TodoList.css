@@ -1,0 +1,33 @@
+.list-div {
+    border-width: 2px;
+    border-style: solid;
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    width: 1000px;
+    ;
+    flex-direction: column;
+}
+
+.output-placement {
+    display: flex;
+    margin-top: 100px;
+    justify-content: left;    
+    flex-direction: column;
+    align-items: center;
+}
+
+.check-box {
+    height: 30px;
+    width: 30px;
+    color: green;
+}
+
+.list-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.align-top {
+    margin-bottom: 2px ;
+}
